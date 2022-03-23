@@ -1,0 +1,92 @@
+.container {
+    height: 100%;
+    width: 30%;
+    background-color: #fff;
+    border-style: solid;
+  }
+  .box_row {
+    border-style: solid;
+    margin: 15px;
+    border-color: rgb(126, 32, 233);
+  }
+  /* .row-create_Array {
+    border-bottom: solid;
+  } */
+  #Crrbuton {
+    margin-top: 15px;
+  }
+  
+  .containerButton {
+    height: 40px;
+  }
+  .row {
+    border-bottom: solid;
+    border-color: rgb(126, 32, 233);
+  }
+  h2 {
+    text-align: center;
+    color: rgb(126, 32, 233);
+  }
+  .row_option {
+    display: flex;
+    margin: -10px;
+  }
+  .row_input {
+    display: flex;
+    margin-left: 40px;
+  }
+  .containerButton {
+    padding: 4px;
+    display: flex;
+  }
+  .containerOption {
+    display: flex;
+    margin-left: 40px;
+  }
+  .create_Arr {
+    border-right: solid;
+    width: 84px;
+    border-color: rgb(126, 32, 233);
+  }
+  .text {
+    color: orange;
+    margin: 5px;
+  }
+  label {
+    padding: 15px;
+    margin-left: -28px;
+  }
+  input#increase {
+    margin: 20px;
+  }
+  input#deincrease {
+    margin: 19px;
+    margin-left: -35px;
+  }
+  input#position {
+    width: 40px;
+    height: 15px;
+    margin-top: 15px;
+    margin-left: 3px;
+  }
+  input#valueInput {
+    width: 60px;
+    height: 15px;
+    margin-top: 15px;
+    margin-left: 3px;
+  }
+  .arrayInput {
+    display: flex;
+  }
+  .ValueInputArray {
+    display: flex;
+    margin-left: 5px;
+  }
+  button#add {
+    height: 20px;
+    margin-top: 15px;
+    margin-left: 5px;
+  }
+  .result{
+    display: flex;
+  }

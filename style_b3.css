@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    font-size: 4rem;
+    border: solid 3px rgba(219, 213, 213, 0.719);
+  }
+  #time-banner {
+    border: solid 3px rgba(219, 213, 213, 0.719);
+    font-family: "LED Digital 7", sans-serif;
+    color: red;
+    background-color: black;
+  }
+  #banner {
+    width: 100%;
+    text-align: center;
+  }
